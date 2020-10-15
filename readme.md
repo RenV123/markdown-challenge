@@ -35,4 +35,4 @@ As a child it was my life ambition to become a frog. I would jump around like a 
 
 ##### TL;DR I used to be obsessed with frogs.
 
-<< previous || René Vandamme || next >>
+<< [previous](https://github.com/maureenoldyck/markdown-challenge) || René Vandamme || [next](https://github.com/selilulu/hello-world) >>
